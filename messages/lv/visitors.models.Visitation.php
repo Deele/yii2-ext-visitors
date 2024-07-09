@@ -1,0 +1,20 @@
+<?php
+return [
+    'IP Address' => 'IP adrese',
+    'Geo IP (JSON)' => 'Ģeogrāfiskā IP informācija (JSON)',
+    'Geo IP' => 'Ģeogrāfiskā IP informācija',
+    'User Agent ID' => 'Lietotāja aģenta ID',
+    'User Agent' => 'Lietotāja aģents',
+    'Visited URL ID' => 'Apmeklētā URL ID',
+    'Visited URL' => 'Apmeklētais URL',
+    'Created at (UTC)' => 'Izveidots (UTC)',
+    'Created at' => 'Izveidots',
+    'Headers (JSON)' => 'Galvenes (JSON)',
+    'Headers' => 'Galvenes',
+    'Cookies (JSON)' => 'Sīkfaili (JSON)',
+    'Cookies' => 'Sīkfaili',
+    'Visitation tag' => 'Apmeklējuma atzīme',
+    'Created by' => 'Izveidoja',
+    'Method' => 'Metode',
+    'Is AJAX request' => 'Vai ir AJAX pieprasījums',
+];
